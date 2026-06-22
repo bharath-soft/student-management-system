@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Local runtimes
+node-portable/
+
+# Databases
+backend/students.db
+
+# Production builds
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+.gemini/
+*.log
