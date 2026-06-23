@@ -37,7 +37,7 @@ export default function Sidebar({ activeTab, setActiveTab }) {
       }}>
         <School size={28} color="var(--color-primary)" />
         <h2 style={{ fontSize: '1.25rem', letterSpacing: '0.5px' }}>
-          Aegis <span style={{ color: 'var(--color-primary)', fontSize: '0.8rem', fontWeight: '400' }}>v1.0</span>
+          RVS <span style={{ color: 'var(--color-primary)', fontSize: '0.8rem', fontWeight: '400' }}>v1.0</span>
         </h2>
       </div>
 
